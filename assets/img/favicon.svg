@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="32" fill="#000"/>
+  <circle cx="32" cy="32" r="27.5" fill="none" stroke="#F2F3F1" stroke-width="1.8"/>
+  <text x="32" y="30" text-anchor="middle" font-family="Oswald, Arial, sans-serif" font-size="19" font-weight="600" fill="#F2F3F1" letter-spacing="1">BK</text>
+  <text x="32" y="45" text-anchor="middle" font-family="Oswald, Arial, sans-serif" font-size="8.5" fill="#FF5B25" letter-spacing="3">AUTO</text>
+</svg>
